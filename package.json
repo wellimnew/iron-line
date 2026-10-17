@@ -1,0 +1,8 @@
+{
+  "name": "iron-line",
+  "version": "1.0.0",
+  "description": "Iron Line tank game with multiplayer rooms",
+  "main": "lan-server.js",
+  "scripts": { "start": "node lan-server.js" },
+  "engines": { "node": ">=18" }
+}
